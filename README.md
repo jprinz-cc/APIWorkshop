@@ -27,7 +27,7 @@ index.js in controllers
 const getHomePage = function(req, res, next) {
     res.render('index', { title: 'Express' });
 };
-export {
+module.exports = {
     getHomePage
 }
 ```
