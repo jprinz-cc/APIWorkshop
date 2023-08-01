@@ -2,15 +2,15 @@
 const axios = require('axios');
 
 const getPosts = async function(req, res, next) {
-    console.log("**GET posts data");
+    console.log("**GET posts data**");
     try {
         const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
         const posts = response.data;
-        console.log("**GET posts data SUCCESS");
+        console.log("**GET posts data SUCCESS**");
         res.json(posts);
 
     } catch (error) {
-        console.log("**GET posts data FAILED");
+        console.log("**GET posts data FAILED**");
         res.status(500).json({ error: 'Internal server error' });
     }
 };
