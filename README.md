@@ -99,7 +99,7 @@ Add code to index.hbs
 In this workshop, we have learned how to build a simple API using Node.js and Express. We covered setting up the project, defining routes, implementing middleware, and the startings of an MVC pattern. This is just the beginning of your journey into building APIs and web applications with Node.js and Express. There is much more to explore and learn, such as a fully realized MVC pattern, database integration, authentication, and more complex API features.
 
 ## Additional Resources:
-Continue your NodeJS learning journey with these additional resources:
+Continue your Node.js learning journey with these additional resources:
 
 [Official Node.js Documentation](https://nodejs.org/en/docs/): Explore the official Node.js documentation for in-depth information about Node.js and its modules.
 
@@ -109,7 +109,7 @@ Continue your NodeJS learning journey with these additional resources:
 
 [Mongoose (for MongoDB integration)](https://mongoosejs.com/): If you want to dive into using databases with Node.js, Mongoose is a popular library for MongoDB integration.
 
-[MySQL npm (for MySQL integration)](https://www.npmjs.com/package/mysql): NodeJS also pairs well with relational databases and the mysql package on npm is a great place to get started.
+[MySQL npm (for MySQL integration)](https://www.npmjs.com/package/mysql): Node.js also pairs well with relational databases and the mysql package on npm is a great place to get started.
 
 [JWT Authentication in Node.js](https://jwt.io/): Learn about JSON Web Tokens (JWT) and how to implement token-based authentication in Node.js applications.
 
