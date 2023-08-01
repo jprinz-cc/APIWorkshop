@@ -94,3 +94,25 @@ Add code to index.hbs
 - Add createPost function to api.js in controllers
 - Add POST route to index.js in routes.
 - Add createPost function and eventListener to index.js in javascripts
+
+## Conclusion
+In this workshop, we have learned how to build a simple API using Node.js and Express. We covered setting up the project, defining routes, implementing middleware, and the startings of an MVC pattern. This is just the beginning of your journey into building APIs and web applications with Node.js and Express. There is much more to explore and learn, such as a fully realized MVC pattern, database integration, authentication, and more complex API features.
+
+## Additional Resources:
+Continue your NodeJS learning journey with these additional resources:
+
+[Official Node.js Documentation](https://nodejs.org/en/docs/): Explore the official Node.js documentation for in-depth information about Node.js and its modules.
+
+[Express.js Documentation](https://expressjs.com/): Refer to the official Express.js documentation for detailed explanations of Express features and best practices.
+
+[RESTful API Design Best Practices](https://restfulapi.net/): Study the best practices and principles of RESTful API design to create efficient and user-friendly APIs.
+
+[Mongoose (for MongoDB integration)](https://mongoosejs.com/): If you want to dive into using databases with Node.js, Mongoose is a popular library for MongoDB integration.
+
+[MySQL npm (for MySQL integration)](https://www.npmjs.com/package/mysql): NodeJS also pairs well with relational databases and the mysql package on npm is a great place to get started.
+
+[JWT Authentication in Node.js](https://jwt.io/): Learn about JSON Web Tokens (JWT) and how to implement token-based authentication in Node.js applications.
+
+[Postman](https://www.postman.com/): Use Postman for testing and interacting with APIs.
+
+Online tutorials and YouTube videos: There are numerous tutorials and guides available online that cover various aspects of Node.js, Express, and API development.
